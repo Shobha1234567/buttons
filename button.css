@@ -1,0 +1,31 @@
+
+  
+
+.button1 {
+  border: none;
+  color: blue;
+  padding: 7px 15px;
+  text-align: center;
+  text-decoration: bold;
+   font-size: 11px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 5px;
+ background-image:linear-gradient(rgb(255, 225, 225), rgb(164, 208, 208))} 
+
+
+.button2 {
+  border: none;
+  padding: 7px 15px;
+  text-align: center;
+  text-decoration: strong;
+   font-size: 11px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 5px;
+  color: red;
+   background-image:linear-gradient(rgb(255, 225, 225), rgb(255, 230, 153))
+   
+ } 
+
+ 
